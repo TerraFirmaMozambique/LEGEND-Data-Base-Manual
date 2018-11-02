@@ -1,4 +1,4 @@
-# LEGEND Manual de Base de Dados {#hluvukani-manual-de-base-de-dados}
+# Introduction
 
-![](/assets/TerraFirmaLogo2016.png)
+![](.gitbook/assets/terrafirmalogo2016.png)
 
